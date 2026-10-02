@@ -1,0 +1,10 @@
+node_modules/
+dist/
+out/
+.vite/
+*.log
+.DS_Store
+npm-debug.log*
+coverage/
+*.db
+*.sqlite
